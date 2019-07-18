@@ -1,0 +1,6 @@
+
+*third_party/sketchology/proto/bitmap.proto	ink.proto"G
+Bitmap
+width (
+height (
+compressed_bitmap_blob (

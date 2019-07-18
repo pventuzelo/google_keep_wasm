@@ -1,0 +1,22 @@
+root:
+    [34m1[m <chunk> = [32m"third_party/sketchology/proto/bitmap.proto"[m
+    [34m2[m <chunk> = message:
+        [34m13[m <64bit> = 0x6F746F72702E6B6E / 8031166572807482222 / 7.7456628e+228
+    [34m4[m <chunk> = message:
+        [34m1[m <chunk> = [32m"Bitmap"[m
+        [34m2[m <chunk> = message:
+            [34m1[m <chunk> = [32m"width"[m
+            [34m3[m <varint> = [33m1[m
+            [34m4[m <varint> = [33m1[m
+            [34m5[m <varint> = [33m13[m
+        [34m2[m <chunk> = message:
+            [34m1[m <chunk> = [32m"height"[m
+            [34m3[m <varint> = [33m2[m
+            [34m4[m <varint> = [33m1[m
+            [34m5[m <varint> = [33m13[m
+        [34m2[m <chunk> = message:
+            [34m1[m <chunk> = [32m"compressed_bitmap_blob"[m
+            [34m3[m <varint> = [33m3[m
+            [34m4[m <varint> = [33m1[m
+            [34m5[m <varint> = [33m12[m
+
