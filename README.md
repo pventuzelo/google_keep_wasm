@@ -3,4 +3,11 @@
 Complete blogpost here:
 [Analysis of Google Keep WebAssembly module](https://webassembly-security.com/google-keep-webassembly-module-analysis/)
 
-Patrick Ventuzelo
+# Trainings & Contact
+
+Patrick Ventuzelo - [@pat_ventuzelo](https://twitter.com/pat_ventuzelo) - Independent Security Researcher.
+
+
+More details about my trainings:
+* 4-days **WebAssembly security** training: [here](https://webassembly-security.com/trainings/)
+* 2-days **Rustlang security** training: [here](https://webassembly-security.com/rust-security-training/)
